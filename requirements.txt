@@ -1,0 +1,7 @@
+comtypes==1.2.0
+imutils==0.5.4
+numpy==1.26.0
+opencv-python==4.8.0.76
+pypiwin32==223
+pyttsx3==2.90
+pywin32==306
